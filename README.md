@@ -1,2 +1,2 @@
 # git-practice
-Are you ok
+yes ok!
